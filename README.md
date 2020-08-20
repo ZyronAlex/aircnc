@@ -69,4 +69,7 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para
 
 ---
 
-Feito com ♥ by Rocketseat :wave: [Entre na nossa comunidade!](https://discordapp.com/invite/gCRAFhc)
+<h4 align="center">
+    Feito com 💜 by <a href="https://www.linkedin.com/in/alexbelo/" target="_blank">Alex Fraga Belo</a>
+</h4>
+
